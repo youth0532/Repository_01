@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScreenOnReceiver</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Focus Infomation</string>
+    <string name="tv_poweroff">关闭屏幕次数：</string>
+    <string name="tv_poweron">打开屏幕次数：</string>
+    <string name="btn_reset">重置</string>
+</resources>
